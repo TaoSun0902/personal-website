@@ -61,7 +61,7 @@ const About = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.3 }}
             >
-              Hello, I'm a software engineer
+              Hello, I'm suntao, a software engineer
             </Text>
           </Box>
 
